@@ -19,10 +19,10 @@ Lifelong Learner, currently working as budagh kompeni.
  
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://twitter.com/@tigapercent">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+  <img align="left" alt="arroy's Twitter" width="20px" src="https://simpleicons.now.sh/x/495f7e" />
 </a>
 <a href="https://www.instagram.com/@fleshconfetti/">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+  <img align="left" alt="arroy's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
 <!-- <a href="https://yours.com/">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
