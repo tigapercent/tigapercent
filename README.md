@@ -24,6 +24,6 @@ Lifelong Learner, currently working as budagh kompeni.
 <a href="https://www.instagram.com/@fleshconfetti/">
   <img align="left" alt="arroy's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<!-- <a href="https://yours.com/">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
-</a> -->
+<a href="https://facebook.com/@tigapercent">
+  <img align="left" alt="arroy's Facebook" width="20px" src="https://simpleicons.now.sh/facebook/495f7e" />
+</a>
